@@ -19,8 +19,8 @@
   IF[b]AND[e]THEN[E]\
   IF[a]OR[c]THEN[D]\
   IF[b]AND[F]THEN[C]\
-  IF[H]OR[G]THEN[F]\
-  IF[e]OR[a]THEN[H]\
+  IF[H]AND[G]THEN[F]\
+  IF[e]AND[a]THEN[H]\
   IF[d]AND[c]THEN[G]\
   END\
   ![image](https://github.com/zty8023ys/Fault-Tree-By-GML/raw/master/example/test2_map.png)
